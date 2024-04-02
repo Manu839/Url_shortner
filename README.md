@@ -1,3 +1,5 @@
+Link shortner website, you can quickly and easily shorten long URLs into concise, shareable links. Simply paste your URL into the box, and in an instant, you'll receive a shortened version that's perfect for sharing on social media, in emails, or anywhere else
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
