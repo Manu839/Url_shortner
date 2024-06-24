@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <div className="flex flex-col-reverse text-center sm:text-left sm:flex-row justify-between p-4 md:pl-12 lg:pl-[12%] mt-16">
       <div className="">
-        <h1 className="text-4xl md:text4xl lg:text-8xl mt-8 sm:mt-0 font-bold leading-tight">
+        <h1 className="text-4xl md:text4xl lg:text-7xl mt-8 sm:mt-0 font-bold leading-tight">
           More than just shorter links
         </h1>
         <h4 className="text-lg lg:text-2xl mt-2 sm:mt-0 font-medium text-[#bfbfbf] sm:w-5/6">
